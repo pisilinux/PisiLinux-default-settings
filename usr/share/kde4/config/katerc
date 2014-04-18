@@ -22,4 +22,4 @@ Show Indentation Lines=false
 [Kate View Defaults]
 Indent On Tab=true
 Line Numbers=true
-ReplaceTabsDyn=false
+ReplaceTabsDyn=true
